@@ -15,10 +15,6 @@ Este repositorio contiene todo el código fuente correspondiente al *Trabajo Pr�
 |── uso_ia.txt
 |── consigna.pdf
 |── presentacion.pdf
-|── figuras/
-| |── ejercicio_XX.png
-| |── ejercicio_YY.png
-| |── ...
 ```
 
 ## Replicabilidad del entorno
